@@ -35,3 +35,6 @@
 .vs/
 .vscode/
 x64/
+x64/Debug
+Huffman/x64
+Huffman\Bin.bin
