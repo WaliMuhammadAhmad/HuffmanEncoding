@@ -55,3 +55,8 @@ The `Source.cpp` file implements the following:
 
 - Ensure that the `input.txt` file is present in the `code/` directory before running the program.
 - The program is designed to work with ASCII characters.
+- The  `txt` files uses the git lfs for manage larger text files support on github. It is downloaded by default on newer versions of git, but if you want to do it then run:
+```bash
+git lfs pull
+```
+- This will fetch all the *larger text* files in the repo.
